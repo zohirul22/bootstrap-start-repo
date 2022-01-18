@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&family=Lobster&family=Poppins&family=The+Nautigal:wght@700&display=swap');
+
+.part1>p>i{
+    font-size: 40px;
+    padding: 10px 15px;
+    color: rgb(175, 63, 85);
+}
+
+.part1>p>i:hover{
+    color: crimson;
+}
+
+footer{
+    background-color: rgba(27, 26, 26, 0.726);
+
+}
+
+.part{
+    font-family: 'EB Garamond', serif;
+    font-size: 50px;
+    font-weight: bolder;
+    color: blanchedalmond;
+}
+
+section{
+    box-shadow: 5px 10px 8px 10px #888888;
+}
